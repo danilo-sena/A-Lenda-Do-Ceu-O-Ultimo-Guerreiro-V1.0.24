@@ -1,0 +1,17 @@
+function love.conf(t)
+    t.title = "A Lenda Do Céu - O Último Guerreiro"        -- O título da janela do jogo em (string)
+    t.author = "Danilo Henrique Rodrigues De Sena"         -- O autor do jogo (string)
+    t.identity = "ALendaDoCeu"   						       	   -- O nome do diretório save
+    t.version = 11.2               						   -- A versão do LÖVE para a qual o jogo é feito (número)
+    t.console = false           						   -- Vincula a um console (boleano, somente Windows)
+    --t.modules.joystick = true 							   -- Habilita o módulo joystick (boleano)
+    t.modules.audio = true    							   -- Habilita o módulo audio (boleano)
+    t.modules.keyboard = true  							   -- Habilita o módulo keyboard (boleano)
+    t.modules.event = true   							   -- Habilita o módulo event (boleano)
+    t.modules.image = true   							   -- Habilita o módulo image (boleano)
+    t.modules.graphics = true 							   -- Habilita o módulo graphics (boleano)
+    t.modules.timer = true     							   -- Habilita o módulo timer (boleano)
+    --t.modules.mouse = true   							   -- Habilita o módulo mouse (boleano)
+    t.modules.sound = true   							   -- Habilita o módulo sound (boleano)
+    t.modules.physics = true  							   -- Habilita o módulo physics (boleano)
+end
