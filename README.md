@@ -1,1 +1,1 @@
-Jogo a A Lenda Do Céu O Último Guerreiro.
+A Lenda Do Céu O Último Guerreiro - Versão 1.0.24
