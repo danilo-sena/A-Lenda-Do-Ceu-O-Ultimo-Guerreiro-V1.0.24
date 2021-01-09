@@ -1,6 +1,6 @@
 --====================================================================================================
---Autor: Danilo Henrique Rodrigues De Sena
---Disciplina: TCC II
+--Autor: Danilo Sena
+--Disciplina: TCC
 --Faculdade: Unicesumar
 --====================================================================================================
 local rich = require 'biblioteca/richtext/richtext'
