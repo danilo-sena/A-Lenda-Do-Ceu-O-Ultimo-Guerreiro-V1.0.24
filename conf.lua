@@ -1,6 +1,6 @@
 function love.conf(t)
     t.title = "A Lenda Do Céu - O Último Guerreiro"        -- O título da janela do jogo em (string)
-    t.author = "Danilo Henrique Rodrigues De Sena"         -- O autor do jogo (string)
+    t.author = "Danilo Sena"         -- O autor do jogo (string)
     t.identity = "ALendaDoCeu"   						       	   -- O nome do diretório save
     t.version = 11.2               						   -- A versão do LÖVE para a qual o jogo é feito (número)
     t.console = false           						   -- Vincula a um console (boleano, somente Windows)
